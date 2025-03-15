@@ -1,15 +1,10 @@
-import model.Game;
 import model.card.Card;
 import model.card.Rank;
 import model.card.Suit;
 import model.deck.Deck;
-import model.deck_factory.DeckFactory;
-import model.deck_factory.DeckFactory36Cards;
-import model.deck_factory.DeckFactory52Cards;
-import model.renderer.CardRenderer;
-import model.renderer.ColorCardRenderer;
-import model.renderer.PictureCardRenderer;
-import model.renderer.TextCardRenderer;
+import renderer.CardRenderer;
+import renderer.ColorCardRenderer;
+import renderer.PictureCardRenderer;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

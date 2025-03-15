@@ -1,9 +1,7 @@
-package model.renderer;
+package renderer;
 
 
 import model.card.Card;
-
-import javax.swing.*;
 
 public class PictureCardRenderer implements CardRenderer {
     private static final String[][] REGULAR_CARD_PICTURES =

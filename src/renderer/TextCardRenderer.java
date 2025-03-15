@@ -1,4 +1,4 @@
-package model.renderer;
+package renderer;
 
 
 import model.card.Card;

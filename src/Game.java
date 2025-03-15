@@ -1,11 +1,9 @@
-package model;
-
 import dialogs.Dialog;
 import dialogs.StringSelectDialog;
 import model.card.Card;
 import model.card.Suit;
 import model.deck.Deck;
-import model.renderer.CardRenderer;
+import renderer.CardRenderer;
 
 import java.util.List;
 
